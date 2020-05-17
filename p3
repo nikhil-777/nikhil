@@ -1,0 +1,23 @@
+num = [1, 2, 3, 4, 5]
+
+print(num[0])
+print(num[-4])
+print(num)
+num.append("Python")
+print(num)
+
+
+tup1 = ('physics', 'chemistry', 'maths');
+tup2 = (1, 2, 3, 4, 5, 6,  );
+print (tup1[0])
+print(tup2[2])
+
+
+dict = {"one" : 1, "two" : 2, "three" : 3, "four" : 4}
+print(dict)
+del dict["two"]
+print(dict)
+
+
+
+
